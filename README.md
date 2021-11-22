@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>al1mprogrammer.github.io</title>
+<title>al1mbek.github.io</title>
 <meta name="generator" content="Jekyll v3.9.0">
 <meta property="og:title" content="al1mprogrammer.github.io">
 <meta property="og:locale" content="en_US">
@@ -24,7 +24,7 @@
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dguiNk8eHPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!-- You can set your favicon here -->
